@@ -16,7 +16,7 @@ namespace Server
     {
         static void Main(string[] args)
         {
-            const int PORT = 1337;
+            const int PORT = 1337; // port
             Run_Server(PORT);
         }
 
